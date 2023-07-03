@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color blue
+color green
+color purple_200
+color purple_500
+color purple_700
+color red
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id action_blueFragment_to_redFragment
+id action_greenFragment_to_blueFragment
+id action_redFragment_to_greenFragment
+id blueFragment
+id fragmentButton
+id greenFragment
+id nav_graph
+id nav_host_fragment
+id redFragment
+layout activity_main
+layout fragment_blue
+layout fragment_green
+layout fragment_red
+mipmap ic_launcher
+mipmap ic_launcher_round
+navigation nav_graph
+string app_name
+string button
+string hello_blank_fragment
+style Theme.NavApp
+xml backup_rules
+xml data_extraction_rules

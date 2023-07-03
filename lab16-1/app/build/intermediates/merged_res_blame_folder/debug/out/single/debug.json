@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-merged_res-45:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-main-47:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-merged_res-45:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-pngs-40:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-merged_res-45:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-main-47:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-merged_res-45:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-main-47:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.navapp-merged_res-45:/layout_fragment_green.xml.flat",
+        "source": "com.example.navapp-main-47:/layout/fragment_green.xml"
+    },
+    {
+        "merged": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-merged_res-45:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-main-47:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-merged_res-45:/layout_fragment_red.xml.flat",
+        "source": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-main-47:/layout/fragment_red.xml"
+    },
+    {
+        "merged": "com.example.navapp-merged_res-45:/navigation_nav_graph.xml.flat",
+        "source": "com.example.navapp-main-47:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-merged_res-45:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-main-47:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-merged_res-45:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-main-47:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-merged_res-45:/layout_fragment_green.xml.flat",
+        "source": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-main-47:/layout/fragment_green.xml"
+    },
+    {
+        "merged": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-merged_res-45:/layout_activity_main.xml.flat",
+        "source": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-main-47:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-merged_res-45:/layout_fragment_blue.xml.flat",
+        "source": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-main-47:/layout/fragment_blue.xml"
+    },
+    {
+        "merged": "com.example.navapp-merged_res-45:/layout_fragment_red.xml.flat",
+        "source": "com.example.navapp-main-47:/layout/fragment_red.xml"
+    },
+    {
+        "merged": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-merged_res-45:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-main-47:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-merged_res-45:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-main-47:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-merged_res-45:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-main-47:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-merged_res-45:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-main-47:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.navapp-merged_res-45:/layout_fragment_blue.xml.flat",
+        "source": "com.example.navapp-main-47:/layout/fragment_blue.xml"
+    },
+    {
+        "merged": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-merged_res-45:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-main-47:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-merged_res-45:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-main-47:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-merged_res-45:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-main-47:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-merged_res-45:/navigation_nav_graph.xml.flat",
+        "source": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-main-47:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-merged_res-45:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-main-47:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-merged_res-45:/xml_backup_rules.xml.flat",
+        "source": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-main-47:/xml/backup_rules.xml"
+    }
+]

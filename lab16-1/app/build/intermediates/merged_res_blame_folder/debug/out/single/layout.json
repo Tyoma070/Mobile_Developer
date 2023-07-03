@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-mergeDebugResources-44:/layout/fragment_blue.xml",
+        "source": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-main-47:/layout/fragment_blue.xml"
+    },
+    {
+        "merged": "com.example.navapp-mergeDebugResources-44:/layout/fragment_red.xml",
+        "source": "com.example.navapp-main-47:/layout/fragment_red.xml"
+    },
+    {
+        "merged": "com.example.navapp-mergeDebugResources-44:/layout/fragment_blue.xml",
+        "source": "com.example.navapp-main-47:/layout/fragment_blue.xml"
+    },
+    {
+        "merged": "com.example.navapp-mergeDebugResources-44:/layout/fragment_green.xml",
+        "source": "com.example.navapp-main-47:/layout/fragment_green.xml"
+    },
+    {
+        "merged": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-mergeDebugResources-44:/layout/activity_main.xml",
+        "source": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-main-47:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-mergeDebugResources-44:/layout/fragment_red.xml",
+        "source": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-main-47:/layout/fragment_red.xml"
+    },
+    {
+        "merged": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-mergeDebugResources-44:/layout/fragment_green.xml",
+        "source": "/Users/uliamezhe/.gradle/daemon/7.4/com.example.navapp-main-47:/layout/fragment_green.xml"
+    }
+]
