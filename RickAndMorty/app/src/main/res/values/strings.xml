@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RickAndMorty</string>
+    <string name="name">Name:\n%1$s</string>
+    <string name="status">Status: %1$s</string>
+    <string name="species">Species:\n%1$s (%2$s)</string>
+    <string name="origin">Origin:\n%1$s</string>
+    <string name="episode_name">Episode %1$s\n%2$s</string>
+    <string name="air_date">Date of release:\n%1$s</string>
+</resources>
